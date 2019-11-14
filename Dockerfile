@@ -1,4 +1,4 @@
-FROM hshar/ubuntunew1212
+FROM bahaou/apache
 
 ADD Blob /var/www/html/
 
